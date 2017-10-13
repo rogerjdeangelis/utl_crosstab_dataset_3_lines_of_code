@@ -1,7 +1,7 @@
 # utl_crosstab_dataset_3_lines_of_code
 Transpose and summarize row percents in three lines of code.  Minimal code for a crosstab.
 
-    ```  SAS forum: Cross tab in three lines of working code                                                                                                          ```
+    ```  SAS forum: Cross tab of percents in three lines of working code                                                                                                          ```
     ```                                                                                                                                                               ```
     ```    or a Cross tab in three lines of working code                                                                                                              ```
     ```                                                                                                                                                               ```
